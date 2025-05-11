@@ -1,5 +1,4 @@
-# Repo-name-hallucination-collapse-challenge
-A structured ZIP test to measure GPT hallucination boundaries.
+
 # Hallucination Collapse Challenge
 
 > Can GPT hold structure — or does it collapse?
