@@ -34,12 +34,6 @@ This challenge measures something deeper:
 
 ---
 
-## Download
-
-[Download the challenge ZIP here](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/main/YOUR_ZIP_FILE_NAME.zip)
-
-(Replace this with the actual file name + repo path after upload)
-
 ---
 
 ## Example
